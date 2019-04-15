@@ -2181,8 +2181,10 @@ input, select, textarea {
 
 		.image.main {
 			display: block;
-			margin: 2.5em 0;
-			width: 100%;
+			margin: 2.5em 8em;
+			width: 80%;
+			align: center
+			
 		}
 
 			.image.main img {
